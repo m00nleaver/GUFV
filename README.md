@@ -1,5 +1,5 @@
 # GUFV
-
+![슬라이드1](https://user-images.githubusercontent.com/95206325/150683428-92e7cd4a-3ec4-412d-8ce5-30d54c8e612e.JPG)
 ## 기획
 ### 기획의도
 ![슬라이드2](https://user-images.githubusercontent.com/95206325/150683293-b2473125-81b7-4cce-83da-4c7b2192d94c.JPG)
